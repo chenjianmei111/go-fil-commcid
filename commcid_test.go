@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"testing"
 
-	commcid "github.com/filecoin-project/go-fil-commcid"
+	commcid "github.com/chenjianmei111/go-fil-commcid"
 	"github.com/ipfs/go-cid"
 	"github.com/multiformats/go-multihash"
 	"github.com/multiformats/go-varint"
